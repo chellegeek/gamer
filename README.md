@@ -45,23 +45,35 @@ Prepare-se para uma jornada nostálgica pelos consoles que marcaram gerações! 
 * **Adicione mais dados:** Edite o arquivo dados.js para adicionar mais consoles e informações.
 * **Explore:** Descubra novas possibilidades com JavaScript e HTML!
 
-** Contribuições:**
+## 🤝 Contribuições:
 
 Quer ajudar a melhorar a Nostalgia Gamer? Sinta-se à vontade para abrir um pull request! Toda ajuda é bem-vinda!
 
-**️ Divirta-se!**
+## 👾 Divirta-se!
 
-Esperamos que você se divirta explorando a história dos videogames com a Nostalgia Gamer! 
+> ℹ️ Esperamos que você se divirta explorando a história dos videogames com a Nostalgia Gamer! 
 
-**#nostalgia #videogames #webdev #html #css #javascript**
+---
+## 👩‍💻 Aprendiz
 
-**Observação:** Este README foi criado de forma descontraída e informal, com o objetivo de ser fácil de entender para usuários de todos os níveis. 
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/chellegeek/my-first-repository/blob/main/IA_images/podcaster.jpg"
+    />
+    <p>&nbsp&nbsp&nbsp&nbspMichelle Garcia<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/chellegeek">
+    GitHub</a>&nbsp;|&nbsp;
+   <a href="https://www.linkedin.com/in/michelle-
+garcia-/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/chellegarciami/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
 
-**Para uma versão mais formal e completa, considere adicionar:**
-
-* **Instruções mais detalhadas:** Sobre como clonar o repositório, instalar dependências (se houver) e executar a aplicação localmente.
-* **Contribuições:** Um guia mais completo sobre como contribuir para o projeto, incluindo diretrizes de estilo e testes.
-* **Licença:** Especifique a licença do projeto.
-* **Agradecimentos:** Agradeça a qualquer pessoa que tenha contribuído para o projeto.
-
-**Lembre-se de adaptar este README às suas necessidades específicas e ao público-alvo do seu projeto.**
