@@ -1,6 +1,5 @@
 <h1 align="center">  Nostalgia Gamer: Sua viagem no tempo dos videogames!
 
----
 ## 🎮 [CLIQUE AQUI](https://nostalgiagamer.vercel.app/)
 
 ---
