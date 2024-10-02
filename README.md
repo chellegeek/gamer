@@ -8,6 +8,7 @@
 </p>
 
 ---
+## 🎮 [CLIQUE AQUI](https://nostalgiagamer.vercel.app/)
 
 
 ## 📓 Descrição
@@ -53,7 +54,7 @@ Quer ajudar a melhorar a Nostalgia Gamer? Sinta-se à vontade para abrir um pull
 
 > ℹ️ Esperamos que você se divirta explorando a história dos videogames com a Nostalgia Gamer!
 
-[Acesse o site](https://gamer-gules-chi.vercel.app/)
+[Acesse o site](https://nostalgiagamer.vercel.app/)
 ---
 ## 👩‍💻 Aprendiz
 
